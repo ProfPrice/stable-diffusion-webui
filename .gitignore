@@ -7,6 +7,7 @@ __pycache__
 /SwinIR/*
 /repositories
 /venv
+/venv-torch-nightly
 /tmp
 /model.ckpt
 /models/**/*
